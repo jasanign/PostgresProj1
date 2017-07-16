@@ -1,4 +1,4 @@
--- Assignment Two: Drop Tables Batch
+-- Proj 1: Drop Tables Batch
 -- @author Gajjan Jasani
 -- @version 27 February 2017
 

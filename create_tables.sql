@@ -1,4 +1,4 @@
--- Assignment Two: Create Tables Batch
+-- Proj 1: Create Tables Batch
 -- @author Gajjan Jasani
 -- @version 27 February 2017
 

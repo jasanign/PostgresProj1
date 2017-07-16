@@ -1,8 +1,8 @@
 -- use the psql command
--- \i assg2_tester.sql
+-- \i proj1_tester.sql
 -- to load and run this batch file
 
--- Assignment Two: Tester
+-- Proj 1: Tester
 -- Use the nba database. The expected results are only for the
 -- database instance provided. Other database instances with
 -- different results may be in evaluating the correctness of 

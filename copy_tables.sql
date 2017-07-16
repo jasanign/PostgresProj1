@@ -1,4 +1,4 @@
--- Assignment Two: Copy Tables Batch
+-- Proj 1: Copy Tables Batch
 -- @author Gajjan Jasani
 -- @version 27 February 2017
 
